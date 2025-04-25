@@ -36,7 +36,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, Tailwind CSS, JavaScript/React (if applicable)
+- **Frontend**: HTML, Tailwind CSS, JavaScript/React,Typescript 
 - **Design**: Figma (UI wireframes), Responsive Layout Principles
 - **Icons & Graphics**: Lucide, Heroicons
 
